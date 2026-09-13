@@ -20,5 +20,3 @@ The sketch contains thermistor coefficients derived using Mathcad. These coeffic
 ## Open in Arduino IDE
 
 Open `Thermistor_Temp_Monitor/Thermistor_Temp_Monitor.ino`, select the appropriate board and port, and upload. Open Serial Monitor at 9600 baud to see voltage and temperature readings.
-
-The original sketch is included unchanged.
